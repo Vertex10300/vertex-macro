@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## 실행
 
 ```bash
-python macro.py
+python main.py
 ```
 
 ## 단축키 (기본값)
