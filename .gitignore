@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+
+# 사용자 설정 및 캡처 이미지
+macro_config.json
+images/
